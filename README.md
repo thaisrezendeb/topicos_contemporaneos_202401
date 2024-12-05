@@ -1,4 +1,4 @@
-# Tópicos Contemporaneos - Pós Graduação Cesar School
+# Tópicos Contemporâneos - Pós Graduação Cesar School
 ## Engenharia e Análise de Dados
 ## Turma 2024.01
 
